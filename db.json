@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Basket with handles",
+            "price": 160,
+            "image": "https://res.cloudinary.com/dzkqopnby/image/upload/v1728169482/muebles-ecommerce/kettle_ur0hfu.jpg",
+            "category": ["home decor", "decoration"]
+        },
+        {
+            "id": 2,
+            "name": "Flower vase",
+            "price": 170,
+            "image": "https://res.cloudinary.com/dzkqopnby/image/upload/v1728169482/muebles-ecommerce/flower-vase_uv5dsy.jpg",
+            "category": ["home decor", "decoration", "vase"]
+        },
+        {
+            "id": 3,
+            "name": "Wood table",
+            "price": 15,
+            "image": "https://res.cloudinary.com/dzkqopnby/image/upload/v1728169487/muebles-ecommerce/wood-table_cro7vj.jpg",
+            "category": ["home decor", "decoration"]
+        },
+        {
+            "id": 4,
+            "name": "Wall clock",
+            "price": 110,
+            "image": "https://res.cloudinary.com/dzkqopnby/image/upload/v1728169481/muebles-ecommerce/black-clock_fivjpe.jpg",
+            "category": ["home decor", "decoration", "basics"]
+        },
+        {
+            "id": 5,
+            "name": "Plastic table",
+            "price": 90,
+            "image": "https://res.cloudinary.com/dzkqopnby/image/upload/v1728169486/muebles-ecommerce/white-table_vhgob9.jpg",
+            "category": ["home decor", "decoration"]
+        },
+        {
+            "id": 6,
+            "name": "Pottery vase",
+            "price": 60,
+            "image": "https://res.cloudinary.com/dzkqopnby/image/upload/v1728169482/muebles-ecommerce/pottery-vase_fpz5f6.jpg",
+            "category": ["vase"]
+        },
+        {
+            "id": 7,
+            "name": "Rose holdback",
+            "price": 24,
+            "image": "https://res.cloudinary.com/dzkqopnby/image/upload/v1728169483/muebles-ecommerce/rose-lamp_viuzwr.jpg",
+            "category": ["home decor", "decoration", "lightning"]
+        },
+        {
+            "id": 8,
+            "name": "Plastic chair",
+            "price": 240,
+            "image": "https://res.cloudinary.com/dzkqopnby/image/upload/v1728169485/muebles-ecommerce/white-chair_ucmrhz.jpg",
+            "category": ["home decor", "decoration"]
+        }
+    ]
+}
